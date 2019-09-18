@@ -17,7 +17,7 @@ gaps outer 35
 gaps inner 30
 
 # autostart
-exec --no-startup-id hsetroot -full ~/wallcybercity1.jpg
+exec --no-startup-id hsetroot -full ~/raincity.jpg
 exec --no-startup-id xsettingsd &
 exec --no-startup-id compton -b --respect-prop-shadow
 exec --no-startup-id polybar mybar -r
